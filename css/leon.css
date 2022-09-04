@@ -194,7 +194,7 @@ body {
 /* Start Landing section */
 
 .landing {
-    background-image: url(/image/creative-vix.jpg);
+    background-image: url(../image/creative-vix.jpg);
     background-size: cover;
     height: calc(100vh - 64px);
     position: relative;
